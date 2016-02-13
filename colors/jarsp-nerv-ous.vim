@@ -22,7 +22,7 @@ hi Cursor	        guibg=#d0cb50       guifg=none          gui=none
 hi CursorLine	    guibg=#000000       gui=none
 hi CursorColumn	    guibg=#000000       gui=none
 hi ColorColumn	    guibg=#262626       gui=none     
-hi Conceal          guibg=#c555dd       guibg=none          gui=none
+hi Conceal          guifg=#c555dd       guibg=none          gui=none
 hi Directory	    guifg=#8eaa29       gui=none     
 hi Folded	        guibg=#262626       guifg=#a9a1c7       gui=none     
 hi Function	        guifg=#00e600       gui=none     
