@@ -49,8 +49,8 @@ hi Search           guifg=none          guibg=#fe9e47       gui=none
 hi Error            guifg=#000000       guibg=#e64333
 hi ErrorMsg         guifg=#000000       guibg=#e64333
 hi WarningMsg       guifg=#000000       guibg=#fe9e47
-hi YcmErrorSelection    guifg=#000000       guibg=#e64333
-hi YcmWarningSelection  guifg=#000000       guibg=#fe9e47
+hi YcmErrorSection  guifg=#000000       guibg=#e64333
+hi YcmWarningSection    guifg=#000000       guibg=#fe9e47
 
 hi Pmenu            guifg=#fe9e47       guibg=#2e2733
 hi PmenuSel         guibg=#8eaa29       guifg=#000000
