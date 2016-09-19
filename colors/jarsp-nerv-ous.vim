@@ -46,7 +46,7 @@ hi VertSplit	    guibg=#2e2733       guifg=#2e2733       gui=none
 hi Visual	        guibg=#400000       gui=none     
 hi IncSearch        guifg=none          guibg=#d0cb50       gui=none
 hi Search           guifg=none          guibg=#fe9e47       gui=none
-hi Error            guifg=#f5e4e6       guibg=#e64333
+hi Error            guifg=#000000       guibg=#e64333
 hi ErrorMsg         guifg=#000000       guibg=#e64333
 hi WarningMsg       guifg=#000000       guibg=#fe9e47
 
